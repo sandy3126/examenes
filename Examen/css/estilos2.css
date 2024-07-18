@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 12px;
+}
+
+.contenedor {
+    width: 200px;
+    margin: 0 auto;
+    background-color: #CCC;
+    border: 1px solid #000;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+    padding: 2px 4px;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Lugrasimo', sans-serif;
+    font-size: 24px;
+    text-shadow: 2px 2px 2px #e8f7b0;
+    margin-bottom: 10px;
+}
+
+img {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+}
+
+ul {
+    text-align: left;
+    margin-top: 10px;
+}
+
+ul li {
+    list-style-type: disc;
+    margin-left: 20px;
+}
